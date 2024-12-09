@@ -35,6 +35,8 @@ NEAR Transaction and Query Builder is a Rust library that simplifies the interac
 
 ## Usage
 
+[Client implementation](https://github.com/hasselalcala/near_tx_qx_builder_client)
+
 ### Transaction Example
 
 ```rust
